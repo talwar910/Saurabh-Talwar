@@ -1,0 +1,155 @@
+body{
+    background-color: whitesmoke;
+    width: 90%;
+    margin-left: 5%;
+}
+.header{
+    height: 100px;
+    background-color: black;
+    text-align: center;
+}
+.img1{
+    display: inline-block;
+    content: ;
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-top:10px;
+    margin-left: 20px;
+    border-radius: 3px;
+}
+
+.img2{
+    display: inline-block;
+    content: ;
+    width: 100px;
+    height: 80px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+    border-radius: 3px;
+
+}
+.span1 h1{
+    color: aliceblue;
+    margin-left: 300px;
+    margin-top: -7px;
+    width: 300px;
+    text-align: center;
+
+}
+.span2 h1{
+    color: aliceblue;
+    width: 400px;
+    height: 80px;
+    margin-left: 750px;
+    margin-top: -75px;
+    text-align: center;
+}
+.div1{
+    border: 1px solid grey;
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.select{
+    float: right;
+    margin-right: 20px;
+    margin-top: -20px;
+    
+
+}
+.div1 span{
+    display: inline-block;
+    width:200px;
+    text-align: end;
+}
+.div1 .A span{
+    border: 2px solid aqua;
+    width: 75px;
+    margin-left: 20px;
+    text-align: center;
+    background-color: grey;
+    border-radius: 5px; 
+}
+.form h2{
+    color: red;
+    margin-left: 100px;
+}
+ .form .div2{
+    width: 80%;
+    border: 2px solid rgb(160, 157, 157);
+    margin-left: 150px;
+    background-color: rgba(214, 209, 209, 0.836);
+
+}
+.form{
+    border: 2px solid rgb(80, 79, 79);
+    margin-top: 20px;
+}
+.form .div2 .type{
+    height: 60px;
+    background-color: rgb(185, 182, 182);
+    border-radius: 3px;
+    margin: 5px;
+
+}
+.form .div2 .type p{
+    margin-left: 5px;
+}
+.form .div2 .type2{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 10px;
+}
+.form .div3 h2{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    margin: 5px;
+    text-align: left;
+    padding-top: 15px;
+
+}
+.form .div4 h3{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    margin: 5px;
+    text-align: left;
+    padding-top: 15px;
+
+}
+.form .div6 h4{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    margin: 5px;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 30px;
+
+}
+.form .div5 h3{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    margin: 5px;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 30px;
+
+}
+.form .div7 h3{
+    height: 60px;
+    background-color: rgb(233, 144, 144);
+    border-radius: 3px;
+    margin: 5px;
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
+
